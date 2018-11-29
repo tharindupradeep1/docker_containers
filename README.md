@@ -1,12 +1,6 @@
-# Simple and light docker-compose stack for PHP apps
+# Simple and light docker-compose for PHP apps
 
-Stack with three cointainres: Nginx, PHP-fpm and Postgres with the purpose to use with any PHP project.
-
-You can use (almost) the same enviroment to develop, production and testing!
-
-This is a perfect alternative to usual Vagrant images... Forget Virtualbox and VMWare for develop!
-
-Each container is based in Alpine linux, a light distro which has only 5 Mb. This is a very light stack and scalable (this depends of your app)
+ Nginx, PHP-fpm and Postgres, Java, Tomcat containers with the purpose to use with any PHP project.
 
 ## Requirements
 
