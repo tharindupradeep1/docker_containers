@@ -1,6 +1,6 @@
 # Simple and light docker-compose for PHP apps
 
- Nginx, PHP-fpm and Postgres, Java, Tomcat containers with the purpose to use with any PHP project.
+ Nginx, PHP-fpm and Postgres containers with the purpose to use with any PHP project.
 
 ## Requirements
 
