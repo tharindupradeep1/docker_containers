@@ -4,7 +4,7 @@
 
 ## Requirements
 
-You only need docker and docker-compose installed.
+You only need docker installed.
 
 Install [docker](https://docs.docker.com/engine/installation/) and [docker-compose](https://docs.docker.com/compose/install/)
 
@@ -12,5 +12,5 @@ Install [docker](https://docs.docker.com/engine/installation/) and [docker-compo
 
 ```
 git clone https://github.com/jmvargas/docker-compose-php-stack.git
-cd docker-compose-php-stak
+cd docker_containers
 docker-compose up
